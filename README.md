@@ -5,7 +5,7 @@
  The UIs are also easy to use and user friendly.
 
 ## Built With
-Spring Core </br>
-SpringMVC for the presentation layer
-Hibernate 3  for the DAO layer
+Spring Core for infrastructure support </br>
+SpringMVC for the presentation layer </br>
+Hibernate 3  for the DAO layer </br>
 
