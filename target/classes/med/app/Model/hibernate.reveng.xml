@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="e_med" match-name="articles"/>
+  <table-filter match-catalog="e_med" match-name="docteurs"/>
+  <table-filter match-catalog="e_med" match-name="endorse"/>
+  <table-filter match-catalog="e_med" match-name="medicament"/>
+  <table-filter match-catalog="e_med" match-name="messages"/>
+  <table-filter match-catalog="e_med" match-name="patients"/>
+  <table-filter match-catalog="e_med" match-name="rendez-vous"/>
+  <table-filter match-catalog="e_med" match-name="symptomes"/>
+</hibernate-reverse-engineering>
